@@ -1,0 +1,13 @@
+{
+    "name": "ceive/user-access-auth",
+    "description": "...",
+    "type": "library",
+    "license": "Apache 2.0",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+	  "psr-4": {
+		"Ceive\\User\\AccessAuth\\": "src/"
+	  }
+	}
+}
